@@ -14,73 +14,108 @@ const Gallery = () => {
   const galleryItems = [
     {
       id: 1,
+      image: "/lovable-uploads/3fd4009a-7434-45af-94d0-051964f34d7b.png",
+      title: "Wedding Ceremony Aisle",
+      category: "wedding",
+      description: "Beautiful aisle decoration with mixed floral arrangements."
+    },
+    {
+      id: 2,
+      image: "/lovable-uploads/5e2f268f-2134-4f0d-8ecc-28eef391eba9.png",
+      title: "Outdoor Wedding Reception",
+      category: "wedding", 
+      description: "Lavish outdoor dining setup with towering floral centerpieces."
+    },
+    {
+      id: 3,
+      image: "/lovable-uploads/333d2146-a7dc-4764-89ab-98044d8c8ace.png",
+      title: "Garden Wedding Table",
+      category: "wedding",
+      description: "Elegant outdoor table setting with abundant floral displays."
+    },
+    {
+      id: 4,
+      image: "/lovable-uploads/213d8422-aaf8-4e99-82ae-bd9f514cc1a2.png",
+      title: "Coral Elegance Dinner",
+      category: "corporate",
+      description: "Sophisticated coral table setting with roses and candlelight."
+    },
+    {
+      id: 5,
+      image: "/lovable-uploads/2c63c198-57ac-4b20-a13c-843db563bf62.png",
+      title: "Birthday Heart Balloon Arch",
+      category: "balloon",
+      description: "Heart-shaped balloon arch with floral accents for birthday celebration."
+    },
+    {
+      id: 6,
+      image: "/lovable-uploads/28c7de36-3c5c-4d97-ae20-8df819b2f89d.png",
+      title: "Bridal Portrait Session",
+      category: "wedding",
+      description: "Bride surrounded by stunning floral columns and arrangements."
+    },
+    {
+      id: 7,
+      image: "/lovable-uploads/018c1719-199d-4832-aafd-686de0606b73.png",
+      title: "Garden Wedding Setup",
+      category: "wedding",
+      description: "Bride at beautifully decorated outdoor wedding reception."
+    },
+    {
+      id: 8,
+      image: "/lovable-uploads/6adc7358-3496-4f5f-b42e-713cd6afb067.png",
+      title: "Bridal Bouquet Moment",
+      category: "wedding",
+      description: "Intimate bridal portrait with coral and blush bouquet."
+    },
+    {
+      id: 9,
+      image: "/lovable-uploads/ca11d79d-fce5-4537-b107-cd03f11ca2cd.png",
+      title: "Peony & Rose Centerpiece",
+      category: "floral",
+      description: "Exquisite gold vessel arrangement with peonies and garden roses."
+    },
+    {
+      id: 10,
       image: "/lovable-uploads/fe0596be-7560-4438-9d48-34dadd61616c.png",
       title: "Luxury Wedding Invitation Suite",
       category: "wedding",
       description: "Elegant wedding invitation display with roses and luxury accessories."
     },
     {
-      id: 2,
+      id: 11,
       image: "/lovable-uploads/c5643582-b683-4396-b408-3c9753af084c.png",
       title: "Romantic Wedding Stationery",
       category: "wedding",
       description: "Beautiful floral invitation with roses and perfume bottle styling."
     },
     {
-      id: 3,
+      id: 12,
       image: "/lovable-uploads/91d804f6-ffc9-49e2-b925-eb5cf8e465a1.png",
       title: "Pink Balloon Arch Creation",
       category: "balloon",
       description: "Stunning pink balloon arch with floral accents in workspace."
     },
     {
-      id: 4,
+      id: 13,
       image: "/lovable-uploads/a65def2b-b409-4e30-ac18-56bee1338348.png",
       title: "Mantle Floral Display",
       category: "floral",
       description: "Multiple centerpieces arranged on elegant mantelpiece."
     },
     {
-      id: 5,
+      id: 14,
       image: "/lovable-uploads/de0b4bd9-6fe2-4fe1-9de6-398d7f3150d7.png",
       title: "Rose Garden Arrangement",
       category: "floral",
       description: "Close-up of blush roses with natural greenery and berries."
     },
     {
-      id: 6,
+      id: 15,
       image: "/lovable-uploads/2eb6638b-ba16-47d9-85ae-16426bb84012.png",
       title: "Elegant Table Setting",
       category: "corporate",
       description: "Sophisticated place setting with floral centerpiece and menu card."
-    },
-    {
-      id: 7,
-      image: "/lovable-uploads/f55e5f5a-ccde-41db-81de-c02c155fed91.png",
-      title: "Wedding Ceremony Aisle",
-      category: "wedding",
-      description: "Beautiful aisle decoration with mixed floral arrangements."
-    },
-    {
-      id: 8,
-      image: balloonLuxury,
-      title: "Birthday Celebration",
-      category: "balloon",
-      description: "Fun yet elegant balloon design for milestone birthday."
-    },
-    {
-      id: 9,
-      image: weddingCenterpiece,
-      title: "Anniversary Romance",
-      category: "floral",
-      description: "Intimate floral arrangement for anniversary dinner."
-    },
-    {
-      id: 10,
-      image: serviceFloral,
-      title: "Garden Party Centerpiece",
-      category: "floral",
-      description: "Fresh spring florals for outdoor garden celebration."
     }
   ];
 
