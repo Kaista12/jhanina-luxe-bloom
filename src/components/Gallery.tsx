@@ -14,55 +14,69 @@ const Gallery = () => {
   const galleryItems = [
     {
       id: 1,
-      image: heroFloral,
-      title: "Romantic Rose Centerpiece",
+      image: "/lovable-uploads/fe0596be-7560-4438-9d48-34dadd61616c.png",
+      title: "Luxury Wedding Invitation Suite",
       category: "wedding",
-      description: "Elegant pink roses with crystal accents for a luxury wedding reception."
+      description: "Elegant wedding invitation display with roses and luxury accessories."
     },
     {
       id: 2,
-      image: balloonLuxury,
-      title: "Metallic Balloon Bouquet",
-      category: "balloon",
-      description: "Sophisticated balloon arrangement with gold and blush tones."
+      image: "/lovable-uploads/c5643582-b683-4396-b408-3c9753af084c.png",
+      title: "Romantic Wedding Stationery",
+      category: "wedding",
+      description: "Beautiful floral invitation with roses and perfume bottle styling."
     },
     {
       id: 3,
-      image: weddingCenterpiece,
-      title: "Classic Wedding Arrangement",
-      category: "wedding",
-      description: "Timeless white roses and eucalyptus with candlelight."
+      image: "/lovable-uploads/91d804f6-ffc9-49e2-b925-eb5cf8e465a1.png",
+      title: "Pink Balloon Arch Creation",
+      category: "balloon",
+      description: "Stunning pink balloon arch with floral accents in workspace."
     },
     {
       id: 4,
-      image: serviceFloral,
-      title: "Vibrant Floral Display",
+      image: "/lovable-uploads/a65def2b-b409-4e30-ac18-56bee1338348.png",
+      title: "Mantle Floral Display",
       category: "floral",
-      description: "Colorful mixed florals perfect for special celebrations."
+      description: "Multiple centerpieces arranged on elegant mantelpiece."
     },
     {
       id: 5,
-      image: heroFloral,
-      title: "Luxury Table Setting",
-      category: "corporate",
-      description: "Professional centerpiece for corporate gala event."
+      image: "/lovable-uploads/de0b4bd9-6fe2-4fe1-9de6-398d7f3150d7.png",
+      title: "Rose Garden Arrangement",
+      category: "floral",
+      description: "Close-up of blush roses with natural greenery and berries."
     },
     {
       id: 6,
+      image: "/lovable-uploads/2eb6638b-ba16-47d9-85ae-16426bb84012.png",
+      title: "Elegant Table Setting",
+      category: "corporate",
+      description: "Sophisticated place setting with floral centerpiece and menu card."
+    },
+    {
+      id: 7,
+      image: "/lovable-uploads/f55e5f5a-ccde-41db-81de-c02c155fed91.png",
+      title: "Wedding Ceremony Aisle",
+      category: "wedding",
+      description: "Beautiful aisle decoration with mixed floral arrangements."
+    },
+    {
+      id: 8,
       image: balloonLuxury,
       title: "Birthday Celebration",
       category: "balloon",
       description: "Fun yet elegant balloon design for milestone birthday."
     },
     {
-      id: 7,
+      id: 9,
       image: weddingCenterpiece,
       title: "Anniversary Romance",
       category: "floral",
       description: "Intimate floral arrangement for anniversary dinner."
     },
     {
-      id: 8,
+      id: 10,
       image: serviceFloral,
       title: "Garden Party Centerpiece",
       category: "floral",
